@@ -4,31 +4,37 @@ Email Scraper is a Python-based tool designed to extract email addresses from we
 
 ## Features
 
--   Extract email addresses from web pages or local files.
--   Supports multiple input formats (URLs, plain text, etc.).
--   Outputs results in a clean, structured format.
--   Lightweight and fast.
+- Extract email addresses from web pages or local files.
+- Supports multiple input formats (URLs, plain text, etc.).
+- Outputs results in a clean, structured format.
+- Lightweight and fast.
 
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/email-scraper.git
-    ```
+   ```bash
+   git clone https://github.com/your-username/email-scraper.git
+   ```
 2. Navigate to the project directory:
-    ```bash
-    cd email-scraper
-    ```
+   ```bash
+   cd email-scraper
+   ```
 3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
 Run the script with the desired input:
 
 Change the input and output file in the code.
+
+1. **Activate the Virtual Environment** (if using `venv`):
+   ```bash
+   source venv/bin/activate  # On macOS/Linux
+   venv\Scripts\activate     # On Windows
+   ```
 
 ### Output to a file
 
